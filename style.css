@@ -355,7 +355,7 @@ h3{
 }
 
 #grad2 {
-  height: 800px;
+  height: 1000px;
   background-color: rgb(176, 255, 156); /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom, rgb(176, 255, 156), rgb(255, 255, 255) 50%);
 }
