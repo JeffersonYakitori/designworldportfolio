@@ -310,6 +310,15 @@ h3{
     height: 600px; 
 }
 
+#three-d-face-on-page {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(100px);
+    width: 400px;
+    height: 400px; 
+}
+
 #phazer-name-maps { 
     transform: translateY(40px);
 
@@ -349,9 +358,9 @@ h3{
 }
 
 #grad1 {
-  height: 2200px;
+  height: 2600px;
   background-color: rgb(176, 255, 156); /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom, rgb(176, 255, 156), rgb(255, 255, 255) 50%);
+  background-image: linear-gradient(to bottom, rgb(176, 255, 156), rgb(255, 255, 255) 75%);
 }
 
 #grad2 {
@@ -395,3 +404,10 @@ h3{
   background-color: rgb(176, 255, 156); /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom, rgb(176, 255, 156), rgb(255, 255, 255) 90%);
 }
+
+#grad9 {
+  height: 1650px;
+  background-color: rgb(176, 255, 156); /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom, rgb(176, 255, 156), rgb(255, 255, 255) 75%);
+}
+
